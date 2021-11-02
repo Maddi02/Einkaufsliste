@@ -1,9 +1,13 @@
-# Einkaufsliste 
-
+# Lebenslauf
+## Allgemeine Information
 Name: Hummel
-Vorname: Martin
+>
+Nachname: Martin
+>
 Gebutsdatum: 10.01.02
-
-Abschulss: Abitur 2020
-
-Qualifiktionen: OSSE
+>
+Wohnort: Los Angeles
+### Qualifikationen
+Programmiersprachen: Java , C++
+>
+Lieblingsfach: OSSE 
